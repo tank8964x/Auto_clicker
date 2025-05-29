@@ -9,7 +9,7 @@ Instructions:
 2. Open terminal or command prompt and run:
    pip install pynput
 3. Run main.py to launch the application.
-4. Enter the key you want to auto-click (e.g., A～Z , 0～9 or LEFT/RIGHT mouse button) and set the click interval (in seconds).
+4. Enter the key you want to auto-click (A～Z , 0～9 or LEFT/RIGHT mouse button) and set the click interval (in seconds).
 5. Press F8 to start or stop the auto-clicking.
 --------------------
 
