@@ -13,4 +13,4 @@ Instructions:
 5. Press F8 to start or stop the auto-clicking.
 --------------------
 
-Author:tank8964x
+Author : tank8964x
